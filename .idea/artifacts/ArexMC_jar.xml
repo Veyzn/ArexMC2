@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ArexMC.jar">
+    <output-path>$PROJECT_DIR$/../../Localhost/plugins</output-path>
+    <root id="archive" name="ArexMC.jar">
+      <element id="module-output" name="ArexMC" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/plugin.yml" />
+    </root>
+  </artifact>
+</component>

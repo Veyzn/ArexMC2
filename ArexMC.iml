@@ -16,18 +16,20 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module-library">
-      <library name="spigot-1.8.8.jar">
+      <library>
         <CLASSES>
-          <root url="jar://C:/spigot-1.8.8.jar!/" />
+          <root url="jar://C:/API/spigot.jar!/" />
         </CLASSES>
         <JAVADOC />
-        <SOURCES />
+        <SOURCES>
+          <root url="jar://C:/API/spigot.jar!/" />
+        </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
-      <library name="PermissionsEx.jar">
+      <library>
         <CLASSES>
-          <root url="jar://C:/PermissionsEx.jar!/" />
+          <root url="jar://C:/API/pex.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
