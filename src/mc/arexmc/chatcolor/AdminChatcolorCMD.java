@@ -2,6 +2,7 @@ package mc.arexmc.chatcolor;
 
 import java.util.ArrayList;
 
+import mc.arexmc.main.Data;
 import org.bukkit.Bukkit;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
@@ -21,7 +22,7 @@ public class AdminChatcolorCMD implements CommandExecutor {
 	public boolean onCommand(CommandSender sender, Command arg1, String arg2, String[] arg3) {
 		
 		if(sender instanceof ConsoleCommandSender) {
-			 System.out.println("Dieser Commmand ist für einen Spieler");
+			 System.out.println(Data.console);
 			} else {
 		Player p = (Player) sender;
 		
