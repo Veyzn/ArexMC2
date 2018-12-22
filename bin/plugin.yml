@@ -1,0 +1,60 @@
+name: ArexMC
+version: 1.0
+author: Veyzn
+main: mc.arexmc.main.Main
+
+commands:
+  info:
+    aliases: [skype,ts,ts3,teamspeak,information]
+  youtube:
+  system:
+  random:
+    aliases: [zufall]
+  abfall:
+    aliases: [trash]
+  feed:
+    aliases: [eat]
+  giveall:
+  rename:
+  broadcast:
+    aliases: [rundruf]
+  msg:
+  r:
+  socialspy:
+  countdown:
+  fix:
+  enderchest:
+    aliases: [ec,e]
+  chatclear:
+    aliases: [cc]
+  gamemode:
+    aliases: [gm] 
+  skull:
+    aliases: [kopf]
+  team:
+  teamchat:
+    aliases: [tc]
+  more:
+  verlosung:
+  vanish:
+    aliases: [v]
+  stack:
+  ping:
+  god:
+  fly:
+  tp:
+  tphere:
+  clan:
+    aliases: [c]
+  chatcolor:
+  admincolor:
+  blockword:
+  globalmute:
+  slowchat:
+  setmotd:
+  wartungen:
+  taler:
+    aliases: [coins,money]
+  stats:
+  crate:
+  
